@@ -1,0 +1,14 @@
+#jumbo, #hourly, #daily, #main{
+    
+    padding-top: 50px;
+}
+
+.jumbotron{
+	background-color: lightblue; 
+}
+body
+{
+    
+    background-image: url("rain.jpg");
+    
+}
